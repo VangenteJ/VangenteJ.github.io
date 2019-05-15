@@ -92,7 +92,7 @@ p {
 }
 @media screen and (max-width:635px) {
    .controller{
-    height: 600px;
+    height: 800px;
     width: 100%;
 } 
 }
