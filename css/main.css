@@ -5,7 +5,16 @@ body{
 
 }
 
-.dark_sky{
+html{
+    background: url(../images/dark_skyR.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.dark_skye{
   background-image: url(../images/dark_skyR.jpg);
     top: 0;
     left: 0;
