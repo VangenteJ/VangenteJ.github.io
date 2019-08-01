@@ -80,5 +80,22 @@ p {
     margin-top: 38%;
     margin-right: 26%;
 }
-
+@media screen and (max-width:1255px) {
+   .controller{
+    height: 900px;
+    width: 1500px;
+}
+}
+@media screen and (max-width:1080px) {
+   .controller{
+    height: 1000px;
+    width: 100%;
+} 
+}
+@media screen and (max-width:635px) {
+   .controller{
+    height: 800px;
+    width: 100%;
+} 
+}
 
